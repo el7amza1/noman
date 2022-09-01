@@ -8,7 +8,7 @@ import {Carousel} from "react-bootstrap"
 const App = () => {
   return (
     <div className="App">
-    <h1> Noemannnn</h1>
+    <h1> Noemannnn & hamza</h1>
       <NavScrollExample />
       <img src={logo} className="App-logo"></img>
       <Carousel>
